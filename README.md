@@ -13,10 +13,10 @@ This project presents a dynamic Tableau dashboard that analyzes Adidas sales dat
 
 ## Table of Contents
 
-- [Overview Dashboard](#-overview-dashboard)  
-- [Details Dashboard](#-details-dashboard)  
-- [Filters](#-filters)
-- [Tools Used](#-tools-used)
+- [Overview Dashboard](#overview-dashboard)  
+- [Details Dashboard](#details-dashboard)  
+- [Filters](#filters)
+- [Tools Used](#tools-used)
 
 ---
 
